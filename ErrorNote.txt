@@ -1,0 +1,1 @@
+MaterialEditorStats:Error: Error [SM5] (Node TextureSample) TextureSample> Sampler type is Alpha, should be Color for /Game/BlakeAssest/LloydlandAlpha.LloydlandAlpha
